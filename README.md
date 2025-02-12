@@ -1,2 +1,2 @@
 # customer_counter web app
-My first JavaScript work
+My first JavaScript app
